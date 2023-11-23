@@ -1,2 +1,2 @@
 # Cheatsheets
-WIP - come back in sem 2
+WIP - come back next sem. haha
