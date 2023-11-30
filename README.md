@@ -8,6 +8,6 @@ Made wrt NUS Modules.
 
 **MA1521** <sub><sub>AY2324/S1</sub></sub> <a href="Archives/MA1521_Cheatsheet_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a>
 
-**MA1522** <sub><sub>AY2324/S1</sub></sub> <a href="Archives/MA1522_RefNotes_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a>
+**MA1522** <sub><sub>AY2324/S1</sub></sub> <a href="Archives/MA1522_RefNotes_Midterms.pdf"><img  src="https://img.shields.io/badge/midterms-blue"  height="17"  /></a> <a href="Archives/MA1522_RefNotes_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a>
 
 
