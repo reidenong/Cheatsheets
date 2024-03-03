@@ -1,5 +1,6 @@
 # Cheatsheets
-A collection of cheatsheets and reference notes for use in exams, or for fun. 
+A collection of typesetted cheatsheets and reference notes for use in exams, or for fun. 
+
 Made wrt NUS Modules.
 
 <br/>
