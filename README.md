@@ -23,6 +23,10 @@
 
 **ST2334** <sub><sub>AY2324/S1</sub></sub> <a href="Archives/ST2334_Midterms.pdf"><img  src="https://img.shields.io/badge/midterms-blue"  height="17"  /></a> <a href="Archives/ST2334_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a>
 
+
+<br/>
+
+
 ## Miscellaneous 
 **GEA1000** <sub><sub>AY2324/S2</sub></sub> <a href="Archives/GEA1000_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a>
 
