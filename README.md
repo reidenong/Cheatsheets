@@ -1,4 +1,4 @@
-# Cheatsheets
+# Cheatsheets <img  src="https://img.shields.io/badge/pdf-green"  height="17"  />
 - A collection of typesetted cheatsheets and reference notes for use in exams, or for fun. 
 - Notes may either fit on a single sheet or be in multi-page format depending on mod policy for that semester
 - Made w.r.t. NUS Modules.
