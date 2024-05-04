@@ -10,9 +10,9 @@
 
 **CS2030<sub>s<sub>** <sub><sub>AY2324/S1</sub></sub> <a href="Archives/CS2030_Midterms.pdf"><img  src="https://img.shields.io/badge/midterms-blue"  height="17"  /></a> <a href="Archives/CS2030_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a> <a href="Archives/CS2030_CodeLibrary.pdf"><img  src="https://img.shields.io/badge/PE-purple"  height="17"  /></a>
 
-**CS2040<sub>s<sub>** <sub><sub>AY2324/S2</sub></sub> <a href="Archives/CS2040s_Midterms.pdf"><img  src="https://img.shields.io/badge/midterms-blue"  height="17"  /></a>
+**CS2040<sub>s<sub>** <sub><sub>AY2324/S2</sub></sub> <a href="Archives/CS2040s_Midterms.pdf"><img  src="https://img.shields.io/badge/midterms-blue"  height="17"  /></a> <a href="Archives/CS2040s_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a>
 
-**CS2100** <sub><sub>AY2324/S2</sub></sub> WIP!
+**CS2100** <sub><sub>AY2324/S2</sub></sub> <a href="Archives/CS2100_Cheatsheet.pdf"><img  src="https://img.shields.io/badge/all-red"  height="17"  /></a>
 
 <br/>
 
@@ -21,6 +21,8 @@
 
 **MA1522** <sub><sub>AY2324/S1</sub></sub> <a href="Archives/MA1522_Midterms.pdf"><img  src="https://img.shields.io/badge/midterms-blue"  height="17"  /></a> <a href="Archives/MA1522_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a>
 
-**ST2334** <sub><sub>AY2324/S1</sub></sub> WIP!
+**ST2334** <sub><sub>AY2324/S1</sub></sub> <a href="Archives/ST2334_Midterms.pdf"><img  src="https://img.shields.io/badge/midterms-blue"  height="17"  /></a> <a href="Archives/ST2334_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a>
 
+## Miscellaneous 
+**GEA1000** <sub><sub>AY2324/S2</sub></sub> <a href="Archives/GEA1000_Finals.pdf"><img  src="https://img.shields.io/badge/finals-red"  height="17"  /></a>
 
