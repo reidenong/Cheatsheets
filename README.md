@@ -14,6 +14,11 @@
 
 **CS2100** <sub><sub>AY2324/S2</sub></sub> <a href="Archives/CS2100_Cheatsheet.pdf"><img  src="https://img.shields.io/badge/all-red"  height="17"  /></a>
 
+**CS2105** <sub><sub>AY2425/S1</sub></sub> <a href="Archives/CS2105_Cheatsheet.pdf"><img  src="https://img.shields.io/badge/all-red"  height="17"  /></a>
+
+**CS2106** <sub><sub>AY2425/S1</sub></sub> <a href="Archives/CS2106_Cheatsheet.pdf"><img  src="https://img.shields.io/badge/all-red"  height="17"  /></a>
+
+
 <br/>
 
 ## Mathematics
