@@ -18,6 +18,12 @@
 
 **CS2106** <sub><sub>AY2425/S1</sub></sub> <a href="Archives/CS2106_Cheatsheet.pdf"><img  src="https://img.shields.io/badge/all-red"  height="17"  /></a>
 
+**CS2102** <sub><sub>AY2526/S1</sub></sub> <a href="Archives/CS2102_Notes.pdf"><img  src="https://img.shields.io/badge/all-red"  height="17"  /></a> <a href="Archives/SQL_Cheatsheet.pdf"><img  src="https://img.shields.io/badge/SQL-purple"  height="17"  /></a>
+
+**CS3230** <sub><sub>AY2526/S1</sub></sub> <a href="Archives/CS3230_Cheatsheet.pdf"><img  src="https://img.shields.io/badge/all-red"  height="17"  /></a>
+
+**CS3210** <sub><sub>AY2526/S1</sub></sub> <a href="Archives/CS3210_Cheatsheet.pdf"><img  src="https://img.shields.io/badge/all-red"  height="17"  /></a>
+
 
 <br/>
 
